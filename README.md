@@ -7,8 +7,16 @@
 <a href="https://linkedin.com/in/reza-torkaman-ahmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reza-torkaman-ahmadi" height="30" width="40" /></a>
 </p>
 
+<div class="row">
+<div class="col-md-6">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=execut3&show_icons=true&locale=en&layout=compact" alt="execut3" /></p>
+</div>
+<div class="col-md-6">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=execut3&show_icons=true&locale=en" alt="execut3" /></p>
+
+</div>
+</div>
+
 
 
